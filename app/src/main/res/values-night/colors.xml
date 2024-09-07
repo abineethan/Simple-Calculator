@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Theme Colors -->
+    <color name="text_primary">#E0E0E0</color> <!-- Light text for dark background -->
+    <color name="text_secondary">#B0B0B0</color> <!-- Slightly lighter text -->
+    <color name="background_color">#121212</color> <!-- Dark background -->
+    <color name="status_bar_color">#121212</color> <!-- Status bar color for dark mode -->
+</resources>
